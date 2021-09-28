@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Çoklu Dil Desteği</string>
+    <string name="header">Merhaba</string>
+    <string name="username">Kullanici Adi</string>
+    <string name="password">Sifre</string>
+    <string name="login">Giris Yap</string>
+</resources>
